@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranorius
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML,CSS,JS,PHP,PYTHON,JAVA
+- 🌱 I’m currently learning HTML,CSS,JS,PHP,PYTHON,JAVA,. etc
 - 💞️ I’m looking to collaborate on Fullstack Front end development
 - 📫 How to reach me email me:
 
